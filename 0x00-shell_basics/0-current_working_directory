@@ -1,2 +1,2 @@
 #!/bin/bash
-$ wc -l current_working_directory
+pwd
